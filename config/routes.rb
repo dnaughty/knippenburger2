@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
 
+  get 'admin/orders'
   root 'static_pages#home'
   get 'static_pages/home'
   get 'static_pages/knippenblogger'
