@@ -4,3 +4,15 @@
 body {
 	background: red;
 }
+
+.img-fluid {
+	width: 50%;
+	height: auto;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
