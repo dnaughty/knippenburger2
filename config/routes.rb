@@ -1,5 +1,9 @@
 Rails.application.routes.draw do
 
+  get 'burgers/big'
+  get 'burgers/knipper'
+  get 'burgers/tim'
+  get 'burgers/denis'
   root 'static_pages#home'
 
   get 'static_pages/knippenblogger'
