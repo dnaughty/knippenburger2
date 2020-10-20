@@ -2,17 +2,22 @@
 
 
 body {
-	background: red;
+
+text-align: center
+	
+	
 }
 
+
+
 .img-fluid {
-	width: 50%;
+	text-align: center;
+	max-width: 50%;
 	height: auto;
 }
 
-img {
-  display: block;
-  max-width: 100%;
-  height: auto;
+#logo {
+	background: black;
 }
+
 
